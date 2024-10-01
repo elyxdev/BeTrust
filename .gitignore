@@ -1,2 +1,5 @@
-exs/
+resultados.txt
+templates/*
+nohup.out
 *.conf
+exs/
